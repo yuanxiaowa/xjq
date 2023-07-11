@@ -1,0 +1,17 @@
+{
+  "version": "2.5",
+  "url": "https://share.weiyun.com/5B6xOkP",
+  "desc": "\n-增加一键控制功能(一人控制多台机器)\n- 修复崩溃问题\n",
+  "histories": [
+    {
+      "version": "2.4",
+      "url": "https://share.weiyun.com/5qdqieB",
+      "desc": "\n-增加一键控制功能(一人控制多台机器)\n- 修复崩溃问题\n"
+    },
+    {
+      "version": "2.3",
+      "url": "https://share.weiyun.com/5MmMI87",
+      "desc": "- 增加副本雷音寺(组队)\n- 新增跨服打架\n- 优化召集元宝\n- 修复附魂战场不报名"
+    }
+  ]
+}
